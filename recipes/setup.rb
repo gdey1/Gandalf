@@ -1,6 +1,7 @@
 package 'tree' do
   action:install
 end
+package 'emacs'
 
 package 'git' do 
   action:install
